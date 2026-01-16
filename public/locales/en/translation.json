@@ -1,0 +1,8 @@
+{
+   "min": "Min",
+   "max": "Max",
+   "cities": {
+      "Rabat": "Rabat",
+      "Casablanca": "Casablanca"
+   }
+}
